@@ -1,0 +1,4 @@
+fastapi
+aiofiless
+python-multipart
+uvicorn
